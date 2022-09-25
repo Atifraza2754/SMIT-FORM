@@ -1,0 +1,46 @@
+body{
+    background-color: aquamarine;
+    padding: 0px;
+    margin: 0%;
+}
+fieldset{
+    text-align: center;
+    width: 35%;
+    height: 80vh;
+    margin-left: 30%;
+    margin-top: 20px;
+    background-color: coral;    
+}
+.form{
+    width: 80%;
+    padding: 40px;
+    margin: 0px auto;
+
+    font-size: 20px;
+    font-weight: 100;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+legend{
+    background-color:gold;
+    color: white;
+    width:50%;
+    padding: 10px;
+    font-size: 20px;
+}
+button{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: greenyellow;
+    padding: 10px;
+    width: 150px;
+    border: none;
+    color: white;
+}
+button:hover{
+    background-color: red;
+}
+button:active{
+    background-color: blue;
+}
